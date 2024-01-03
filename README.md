@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security student at Amsterdam University of Applied Science
 -----------------------------------------------------------------
 
-* 🌍  I'm based in Netherlands
+* 🌍  I'm based in the Netherlands
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/twanterstappen/)
 * 🧠  I'm learning to be a ethical hacker
 * 🤝  I'm open to collaborating on Cyber Security based projects
