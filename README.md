@@ -34,7 +34,7 @@ Cyber Security student at Amsterdam University of Applied Science
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/twanterstappen/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=twanterstappen&repo=smp&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/twanterstappen/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=twanterstappen&repo=portfolio&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <!--
 **twanterstappen/twanterstappen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
